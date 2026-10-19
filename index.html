@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.1/css/all.css">
   <link rel="stylesheet" href="main.css">
   <title>Dorka Fulop profil card</title>
 </head>
@@ -18,7 +19,7 @@
         <div id="name-headline">
           <h1 id="name">name</h1>
           <h2 id="profession">profession</h2>
-          <span id="address">address</span>
+          <i class="fa-solid fa-location-dot"></i><span id="address">address</span>
         </div>
       </div>
       <div id="content">
@@ -35,12 +36,13 @@
         </section>
         <div id="languages">
           <ul>
-            <li><img src="assets/Hun48.png" alt="Hun"></li>
-            <li><img src="assets/UK48.png" alt="UK"></li>
+            <li><button onclick="languageChangeHU()"><img src="assets/Hun48.png" alt="Hun"></button></li>
+            <li><button onclick="languageChangeEN()"><img src="assets/UK48.png" alt="UK"></button></li>
           </ul>
         </div>
       </div>
     </div>
   </div>
+  <script src="name.js"></script>
 </body>
 </html>
