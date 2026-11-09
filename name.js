@@ -16,14 +16,14 @@ const aboutEN = '<p class="paragraph">My software development knowledge based on
 + 'repositoty.</p><p class="paragraph">You can see my professional CV on <a href="https://www.linkedin.com/in/dorka-fulop-efdorkq/" target="_blank" title="Visit me on LinkedIn"><strong>LinkedIn</strong></a></p>';
 const contactHU = 'Lépj velem kapcsolatba:';
 const contactEN = 'Contact me via:';
-const githubHU = '<a href="https://github.com/efdorkq" target="_blank" title="Tekintsd meg a Github repositorymat."><i class="fa-brands fa-2x fa-github"></i></a>';
-const githubEN = '<a href="https://github.com/efdorkq" target="_blank" title="Take a look at my Github repository."><i class="fa-brands fa-2x fa-github"></i></a>';
-const linkedinHU = '<a href="https://www.linkedin.com/in/dorka-fulop-efdorkq/" target="_blank" title="Látogass meg LinkedInen"><i class="fa-brands fa-2x fa-linkedin-in"></i></a>';
-const linkedinEN = '<a href="https://www.linkedin.com/in/dorka-fulop-efdorkq/" target="_blank" title="Visit me on LinkedIn."><i class="fa-brands fa-2x fa-linkedin-in"></i></a>';
-const emailHU = '<a href="mailto:dorka.fulop.dorci@gmail.com" target="_blank" title="Küldj emailt: dorka.fulop.dorci@gmail.com"><i class="fa-regular fa-2x fa-envelope"></i></a>';
-const emailEN = '<a href="mailto:dorka.fulop.dorci@gmail.com" target="_blank" title="Send me email: dorka.fulop.dorci@gmail.com"><i class="fa-regular fa-2x fa-envelope"></i></a>';
-const mobileHU = '<a href="tel:+36706012645" target="_blank" title="Hívj fel: +36 70 601 2645"><i class="fa-solid fa-2x fa-mobile-screen"></i></a>';
-const mobileEN = '<a href="tel:+36706012645" target="_blank" title="Call me: +36 70 601 2645"><i class="fa-solid fa-2x fa-mobile-screen"></i></a>';
+const githubHU = '<a href="https://github.com/efdorkq" target="_blank" title="Tekintsd meg a Github repositorymat."><i class="fa-brands fa-2x fa-github trans"></i></a>';
+const githubEN = '<a href="https://github.com/efdorkq" target="_blank" title="Take a look at my Github repository."><i class="fa-brands fa-2x fa-github trans"></i></a>';
+const linkedinHU = '<a href="https://www.linkedin.com/in/dorka-fulop-efdorkq/" target="_blank" title="Látogass meg LinkedInen"><i class="fa-brands fa-2x fa-linkedin-in trans"></i></a>';
+const linkedinEN = '<a href="https://www.linkedin.com/in/dorka-fulop-efdorkq/" target="_blank" title="Visit me on LinkedIn."><i class="fa-brands fa-2x fa-linkedin-in trans"></i></a>';
+const emailHU = '<a href="mailto:dorka.fulop.dorci@gmail.com" target="_blank" title="Küldj emailt: dorka.fulop.dorci@gmail.com"><i class="fa-regular fa-2x fa-envelope trans"></i></a>';
+const emailEN = '<a href="mailto:dorka.fulop.dorci@gmail.com" target="_blank" title="Send me email: dorka.fulop.dorci@gmail.com"><i class="fa-regular fa-2x fa-envelope trans"></i></a>';
+const mobileHU = '<a href="tel:+36706012645" target="_blank" title="Hívj fel: +36 70 601 2645"><i class="fa-solid fa-2x fa-mobile-screen trans"></i></a>';
+const mobileEN = '<a href="tel:+36706012645" target="_blank" title="Call me: +36 70 601 2645"><i class="fa-solid fa-2x fa-mobile-screen trans"></i></a>';
 
 initLanguageDefault();
 
